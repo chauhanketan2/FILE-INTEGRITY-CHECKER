@@ -27,6 +27,6 @@ Offers the user the option to update the stored hash database after scanning.
 This tool is useful for system administrators, developers, or anyone who wants to monitor changes to important files, detect tampering, or ensure data integrity over time.
 It is lightweight, easy to use, and runs entirely from the command line — no external libraries required.
 
-"OUTPUT"
+#OUTPUT
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf659610-c619-42cb-a4ec-23b2f68c1595" />
